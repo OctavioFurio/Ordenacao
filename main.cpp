@@ -1,10 +1,3 @@
-/*
- * Octávio Xavier Fúrio 13781862
- *
- * Trabalho 1
- *
- * */
-
 #include "header.hpp"
 
 /*
